@@ -1,0 +1,7 @@
+D:\Saharat CS2\CG 68 Payo\tofu132\tofu132\obj\Debug\tofu132.csproj.AssemblyReference.cache
+D:\Saharat CS2\CG 68 Payo\tofu132\tofu132\obj\Debug\tofu132.csproj.CoreCompileInputs.cache
+D:\Saharat CS2\CG 68 Payo\tofu132\tofu132\bin\Debug\tofu132.exe.config
+D:\Saharat CS2\CG 68 Payo\tofu132\tofu132\bin\Debug\tofu132.exe
+D:\Saharat CS2\CG 68 Payo\tofu132\tofu132\bin\Debug\tofu132.pdb
+D:\Saharat CS2\CG 68 Payo\tofu132\tofu132\obj\Debug\tofu132.exe
+D:\Saharat CS2\CG 68 Payo\tofu132\tofu132\obj\Debug\tofu132.pdb
